@@ -1,32 +1,28 @@
-h1, h2, h3 h4, h5, h6 {
+h1 {
+    font-size: 50px;
+    color: #A51E22;
     font-family: 'Nunito', sans-serif;
-    
-p {
-    font-family: 'K2D', sans-serif;
 }
 
-#name {
-    color: blue; 
-    font-size: 20px
+h2 {
+    font-size: 30px;
+    color: #616161;
     font-family: 'Mukta', sans-serif;
 }
-#Age: {
-    color: blue; 
-    font-size: 20px
-    font-family: 'Mukta', sans-serif;
+
+h3 {
+    font-size: 22px;
+    color: #797F89;
+    font-family: 'Rokkitt', serif;
 }
-#Hometown: {
-    color: blue; 
-    font-size: 20px
-    font-family: 'Mukta', sans-serif;
+
+li {
+    font-size: 17px;
+    color: #555;
+    font-family: 'Nunito', sans-serif;
 }
-#Short Bio:{
-    color: blue; 
-    font-size: 20px
-    font-family: 'Mukta', sans-serif;
-}
-#Achievements: {
-    color: blue; 
-    font-size: 20px
-    font-family: 'Mukta', sans-serif;
+p  {
+    font-size: 17px;
+    color: #555;
+    font-family: 'Nunito', sans-serif;
 }
