@@ -1,7 +1,32 @@
 h1, h2, h3 h4, h5, h6 {
-    font-family: 'Bitter', serif;
-}
+    font-family: 'Nunito', sans-serif;
     
 p {
     font-family: 'K2D', sans-serif;
+}
+
+#name {
+    color: blue; 
+    font-size: 20px
+    font-family: 'Mukta', sans-serif;
+}
+#Age: {
+    color: blue; 
+    font-size: 20px
+    font-family: 'Mukta', sans-serif;
+}
+#Hometown: {
+    color: blue; 
+    font-size: 20px
+    font-family: 'Mukta', sans-serif;
+}
+#Short Bio:{
+    color: blue; 
+    font-size: 20px
+    font-family: 'Mukta', sans-serif;
+}
+#Achievements: {
+    color: blue; 
+    font-size: 20px
+    font-family: 'Mukta', sans-serif;
 }
