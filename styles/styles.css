@@ -1,0 +1,66 @@
+.main-header {
+    color: black;
+    padding: none;
+    background-color: #ffffff;
+}
+body {
+    background-color: black;
+}
+.skrillex {
+    font-size: 40px;
+    text-align: center;
+        
+}
+h1 {
+font-size: 40px;
+color: white;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+}
+p {
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    color:white;
+}
+img {
+    max-width: 50%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+ul {
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+}
+h2 {
+    color: white;
+    text-align: center;
+
+}
+#Picture {
+    position: center;
+    margin-top: 120;
+    max-width: 100%;
+    max-height: 100%;
+}
+.wikipedia {
+    width: 100%;
+    text-align: center;
+    text-decoration-line: none 
+}
+a {
+    color: black;
+    background-color: white;
+    padding: 8px 12px;
+    text-align: center; 
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-decoration: none;
+}
+:hover {
+    color: #EB262D;
+}
